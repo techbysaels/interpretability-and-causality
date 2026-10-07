@@ -1,4 +1,4 @@
-# Risks of lack of interpretability in AI models
+# Risks of lack of interpretability and causality in AI models
 
 Although the performance of deep neural networks is impressive, the lack of interpretability can have catastrophic results when the issues of high reliability and ethics are not addressed. In terms of reliability and model auditing, a false negative (incorrectly indicating that a condition is absent) may not be a big issue in spam detection. However, when it comes to self-driving cars, reliable image recognition of a human as a human is vital (Dickson, 2020).
 In terms of ethics, a deep neural network may adopt biases inherent in the collected training set. For example, a neural network may discover that an effective way to maximize profits would be to engage in predatory behavior (Hao, 2020).
